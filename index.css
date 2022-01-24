@@ -24,6 +24,7 @@ nav{
     font-weight:bold;
     padding-top:10px;
     padding-left: 10%;
+    font-size:55px;
 }
 .nav-links{
     text-align:right;
@@ -78,7 +79,7 @@ nav{
 
 }
 .right-col h1{
-    font-size:55px;
+    font-size:45px;
     font-weight:600;
 
 }
