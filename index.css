@@ -295,3 +295,19 @@ footer .wave#wave4{
         background-position-x: 1000px;
     }
 }
+.popup{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.contentBox{
+    position: relative;
+    width:600px;
+    height:400px;
+    background:#fff;
+    border-radius: 20px;
+    display:flex;
+    box-shadow: 0 5px 15px rgba(0,0,0.1);
+
+}
